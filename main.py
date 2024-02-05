@@ -1,7 +1,8 @@
 def main():
     name = input("enter your name")
-    print(f'name = {name}')
+    age =input("enter you age:{age} ")
+    print(f'name = {name}, age=')
 
-#comment changes on vs code
+
 if __name__ == '__main__':
     main()
